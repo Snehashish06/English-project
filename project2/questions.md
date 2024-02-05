@@ -75,7 +75,7 @@
 
 12. If yes, please provide the names of any initiatives or organizations you are aware of.
 
-### Section 5: Personal Experience
+## Section 5: Personal Experience
 
 13. Have you personally witnessed child labour in your community or while traveling?
     - Yes
